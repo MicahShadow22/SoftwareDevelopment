@@ -3,7 +3,7 @@ My name is Micah Sillyman-Weeks
 
 School: Southwest Technical College
 
-Course Name: Computer Programming
+Course Name: Software Development
 
 This repository exists for my next class
 
